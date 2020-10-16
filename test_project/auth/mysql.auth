@@ -1,0 +1,23 @@
+# MySQL Access Information
+# Written by Seonghun Lee on 6. Sep. 2020.
+#
+# This file provides the information for MySQL database connection.
+# Grant permission for this file should be thoroughly considered.
+#
+# First letter on each line should be a character.
+
+# Host name
+host=localhost
+
+# Port
+# Default port is 3306.
+port=3306
+
+# Database name
+database=dbdesign_lecture_db
+
+# Username
+username=root
+
+# Password for user
+password=Skgur2557!
